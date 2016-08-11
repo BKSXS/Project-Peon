@@ -65,3 +65,4 @@ Zoopedia/App_Data/TEMP/
 # Uncomment if necessary however generally it will be regenerated when needed
 #!**/packages/repositories.config
 *.pdb
+Zoopedia/App_Data/Umbraco.sdf
