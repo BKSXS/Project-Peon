@@ -412,6 +412,7 @@
     <Content Include="css\rte.css" />
     <Content Include="css\style.css" />
     <Content Include="default.aspx" />
+    <Content Include="design\Dummy.txt" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
